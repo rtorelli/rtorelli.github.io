@@ -13,6 +13,15 @@ Education
 ======
 * B.S. in Computer Science, Washington State University, 2018
 
+Skills
+======
+* Programming
+  * C, C++, C#, Python
+  * Version control systems
+* Machine Learning
+  * Application of neural networks to image processing
+  * Application of algorithms to classify physical activity
+
 Work experience
 ======
 * Summer 2018: Intern
@@ -23,46 +32,16 @@ Work experience
   * Supervisor: Stephen J. Smith, Ph.D.
 
 * Summer 2017: Research Assistant
-  * [Artificial Intelligence Lab, WSU](ailab.wsu.edu)
+  * [Artificial Intelligence Lab, WSU](http://ailab.wsu.edu)
   * Discovery of Temporal Patterns in Graphs
     * Adapted knowledge discovery algorithm
     * Validated prototype to discover sequential patterns
   * Supervisor: Larry Holder, Ph.D.
 
 * Summer 2016: Research Assistant
-  * [Pervasive Systems Lab, WSU](epsl.eecs.wsu.edu)
+  * [Pervasive Systems Lab, WSU](http://epsl.eecs.wsu.edu)
   * Activity Recognition Using a Wearable Sensor
     * Processed and segmented time series data 
     * Trained machine learning algorithms to classify activity
   * Supervisor: Hassan Ghasemzadeh, Ph.D.
   
-Skills
-======
-* Programming
-  * C, C++, C#, Python
-  * Version control systems
-* Machine Learning
-  * Application of neural networks to image processing
-  * Application of algorithms to classify physical activity
-
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
