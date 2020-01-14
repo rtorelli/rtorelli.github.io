@@ -35,7 +35,6 @@ Work experience
   * [Artificial Intelligence Lab, WSU](http://ailab.wsu.edu)
   * Discovery of Temporal Patterns in Graphs
     * Adapted knowledge discovery algorithm
-    * Validated prototype to discover sequential patterns
   * Supervisor: Larry Holder, Ph.D.
 
 * Summer 2016: Research Assistant
